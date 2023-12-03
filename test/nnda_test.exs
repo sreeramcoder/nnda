@@ -1,6 +1,6 @@
-defmodule Nnda2Test do
+defmodule NndaTest do
   use ExUnit.Case
-  doctest Nnda2
+  doctest Nnda
 
   test "greets the world" do
     assert Nnda2.hello() == :world

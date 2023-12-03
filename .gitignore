@@ -14,3 +14,7 @@ neuron-test-*
 *.o
 *.obj
 *.lst
+*~
+_build/
+deps/
+mix.lock
