@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/neuron
+neuron.so
+neuron.dylib
+neuron.dll
+neuron.a
+neuron.lib
+neuron-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

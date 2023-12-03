@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"Sreeram Venkatasubramanian"
+	],
+	"copyright": "Copyright © 2023, Sreeram Venkatasubramanian",
+	"description": "simple nn implementation following Hagan book",
+	"license": "MIT",
+	"name": "neuron"
+}
